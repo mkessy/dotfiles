@@ -1,1 +1,1 @@
-personal dotfiles to make me cozy whereever i'm coding
+personal dotfiles to make me cozy where ever i'm coding
